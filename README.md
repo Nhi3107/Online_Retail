@@ -6,7 +6,7 @@
 
 https://archive.ics.uci.edu/dataset/352/online+retail
 
-## **Process of analysis Online Ratail Dataset
+## **Process of analysis Online Ratail Dataset**
 
 1/ Revmoe the missing, dupplicate values, remove the canceling bill and the object have 0 unite price
 
